@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+venv/
+*.egg-info/
+
+# Node.js
+node_modules/
+npm-debug.log
+
+# Data files
+data/video.mp4
+data/faiss_index/
+
+# Test reports (can be large)
+playwright-report/
+test-results/
+
+# IDE files
+.vscode/
+.idea/
